@@ -1,3 +1,3 @@
 #!/bin/bash
-./currentworkingdirectory
+/pwd/alx-system_engineering-devops
 
