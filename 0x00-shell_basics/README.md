@@ -1,3 +1,1 @@
-#!/bin/bash
-/pwd/alx-system_engineering-devops
-
+su betty
