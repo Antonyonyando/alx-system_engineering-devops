@@ -1,2 +1,2 @@
 #!/bin/bash
-cat | head -n 3 iacta
+head -n3 antony | tail -n1
